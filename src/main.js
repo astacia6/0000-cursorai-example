@@ -6,8 +6,8 @@ document.querySelector('#app').innerHTML = `
       <div class="profile-image">
         <div class="image-placeholder">👤</div>
       </div>
-      <h1 class="name">홍길동</h1>
-      <p class="title">프론트엔드 개발자</p>
+      <h1 class="name">한솔</h1>
+      <p class="title">정보 교사</p>
       <div class="social-links">
         <a href="#" class="social-link">GitHub</a>
         <a href="#" class="social-link">LinkedIn</a>
